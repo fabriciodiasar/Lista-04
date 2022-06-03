@@ -9,10 +9,7 @@ int main() {
   
 	int *pv = NULL, *pr = NULL;
 
-  
-
-	pv = &a;
-  
+	pv = &a;  
 	pr = &b;
 
 	puts("\nDigite o primeiro valor: ");
